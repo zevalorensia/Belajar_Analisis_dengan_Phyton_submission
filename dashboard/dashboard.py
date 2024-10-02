@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 # Membaca data yang telah digabungkan
-data = pd.read_csv('../data/main_data.csv')
+data = pd.read_csv('data/main_data.csv')
 
 # Pastikan kolom order_purchase_timestamp adalah datetime
 data['order_purchase_timestamp'] = pd.to_datetime(data['order_purchase_timestamp'], errors='coerce')
