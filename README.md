@@ -15,6 +15,7 @@ pip install streamlit pandas matplotlib seaborn
 3. Jalankan aplikasi Streamlit:
 streamlit run dashboard.py
 
+## Tambahkan versi library pada file
 4. pip install -r requirements.txt
 5. pip freeze requirements.txt
 6. pipreqs Belajar_Analisis_dengan_Phyton_submission
