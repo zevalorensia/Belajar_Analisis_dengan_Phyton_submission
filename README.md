@@ -7,7 +7,7 @@ Dashboard E-Commerce ini memberikan analisis interaktif tentang penjualan, metod
 ## Setup Environment - Shell/Terminal
 
 1. Navigasi ke direktori proyek lokal:
-cd C:\Users\User\Documents\Submission\dashboard
+cd Belajar_Analisis_dengan_Phyton_submission\dashboard
 
 2. Instal Streamlit dan dependencies yang diperlukan:
 pip install streamlit pandas matplotlib seaborn
@@ -16,6 +16,8 @@ pip install streamlit pandas matplotlib seaborn
 streamlit run dashboard.py
 
 4. pip install -r requirements.txt
+5. pip freeze requirements.txt
+6. pipreqs Belajar_Analisis_dengan_Phyton_submission
 
 ## Penggunaan
 Mengakses dashboard di browser dengan mengikuti URL yang ditampilkan di terminal.
