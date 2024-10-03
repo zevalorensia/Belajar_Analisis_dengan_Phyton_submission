@@ -15,6 +15,7 @@ pip install streamlit pandas matplotlib seaborn
 3. Jalankan aplikasi Streamlit:
 streamlit run dashboard.py
 
+4. pip install -r requirements.txt
 
 ## Penggunaan
 Mengakses dashboard di browser dengan mengikuti URL yang ditampilkan di terminal.
