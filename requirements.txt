@@ -1,4 +1,4 @@
 pandas==2.2.3
 streamlit==1.38.0
-Matplotlib version == 3.7.1
-Seaborn version== 0.13.1
+Matplotlib==3.7.1
+Seaborn==0.13.1
